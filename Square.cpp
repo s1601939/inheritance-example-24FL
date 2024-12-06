@@ -1,5 +1,5 @@
 #include "Square.h"
-#include <iostream>
+#include <iostream> 
 // constructor
 /**
 * @param int ss is the sideSize
